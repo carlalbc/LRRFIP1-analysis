@@ -1,0 +1,31 @@
+# Data files (not tracked)
+data/
+*.bim
+*.fam
+*.bed
+*.vcf*
+*.bam
+*.bai
+*.fastq*
+*.sf
+*.tsv
+*.xlsx
+
+# Outputs
+*.png
+*.pdf
+*.svg
+*.tiff
+*.jpg
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
