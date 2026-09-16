@@ -1,7 +1,5 @@
 # LRRFIP1 Analysis Code
 
-Analysis code for: *[manuscript title]* — submitted to *Journal of Clinical Investigation*.
-
 ## Repository structure
 
 ```
