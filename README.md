@@ -57,7 +57,7 @@ motifbreakR, BSgenome.Hsapiens.UCSC.hg38, TFBSTools, seqLogo, GenomicRanges, dat
 
 ## Data availability
 
-Raw sequencing data and genotype data are available through [repository/accession TBD]. UK Biobank data were accessed under application [number TBD].
+[Citation of the paper here]
 
 ## Notes
 
@@ -65,10 +65,6 @@ Raw sequencing data and genotype data are available through [repository/accessio
 - Salmon quantification used a GENCODE v49 full-transcriptome index with decoy sequences.
 - Isoform numbering (1-6) refers to GENCODE v49 LRRFIP1 transcripts (ENST IDs listed in supplementary tables), not RefSeq nomenclature.
 - The Regenie pipeline was executed on the UK Biobank Research Analysis Platform (DNAnexus).
-
-## License
-
-[TBD]
 
 ## Contact
 
