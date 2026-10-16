@@ -55,7 +55,8 @@ motifbreakR, BSgenome.Hsapiens.UCSC.hg38, TFBSTools, seqLogo, GenomicRanges, dat
 
 ## Data availability
 
-[Citation of the paper here]
+Frey, T., Cabello, E. M., Siegel, G., Bello, C., Schiller, R., Trippel, M. A., Ranjbar, N., Boonsawat, P., Van Gijn, S. E., Ivanovski, I., Papik, M., Zweier, M., Min, K., Steindl, K., & Rauch, A. (2026). Rare LRRFIP1 variants contribute to pathophysiology of severe early-onset scoliosis and common scoliotic phenotypes. Journal of Clinical Investigation, Epub ahead of print. 
+[DOI](https://doi.org/10.1172/jci202751)
 
 ## Notes
 
